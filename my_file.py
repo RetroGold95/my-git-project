@@ -6,4 +6,9 @@ def hi_there():
     print("hi")
 
     print('hi')
+
+def hi_there():
+    print("hi")
+    
+    print('hi')
       
